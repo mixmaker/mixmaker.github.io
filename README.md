@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👨‍💻 All of my projects are available at [https://mixmaker.vercel.app](https://mixmaker.vercel.app)
+- 👨‍💻 All of my projects are available at [https://shoumik.in](https:/shoumik.in)
 
 - 💬 Ask me about **react, react-native**
 
-- 📫 How to reach me **shoumikskdev@gmail.com**
+- 📫 How to reach me **contact@shoumik.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
