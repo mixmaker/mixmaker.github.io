@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **flutter**
 
-- 👨‍💻 All of my projects are available at [https://shoumik.in](https:/shoumik.in)
+- 👨‍💻 All of my projects are available at [https://shoumik.in](https://shoumik.in)
 
 - 💬 Ask me about **react, react-native**
 
